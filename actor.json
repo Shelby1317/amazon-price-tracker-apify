@@ -1,0 +1,9 @@
+{
+  "actorSpecification": 1,
+  "name": "amazon-price-tracker",
+  "title": "Amazon Price Tracker",
+  "description": "Track Amazon product prices and get instant price updates. Monitor price changes, get product details, and export data for analysis.",
+  "version": "1.0.0",
+  "input": "INPUT_SCHEMA.json",
+  "dockerfile": "Dockerfile"
+}
